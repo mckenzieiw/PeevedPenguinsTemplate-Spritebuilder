@@ -59,9 +59,6 @@
     [CCBReader load:@"Seal"];
     
     return YES;
-    
-    NSLog(@"Penguin Created");
-    NSLog(@"Seal Created");
 
     
 }
