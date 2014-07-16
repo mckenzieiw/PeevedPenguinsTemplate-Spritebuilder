@@ -60,8 +60,8 @@
     
     return YES;
     
-    NSLog(@"Penguin Loaded");
-    NSLog(@"Seal Loaded");
+    NSLog(@"Penguin Created");
+    NSLog(@"Seal Created");
 
     
 }
